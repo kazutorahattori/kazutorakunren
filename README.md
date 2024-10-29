@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Miru-Repo
 
@@ -121,3 +122,6 @@ Miru extensions repository | [Miru App Download](https://github.com/miru-project
 | YY漫画 | yymanhua.com | v0.0.4 | hualiong | zh-cn | manga | [Source Code](https://github.com/miru-project/repo/blob/main/repo/yymanhua.com.js) |
 | 优质资源库 | yzzy.tv | v0.0.1 | hualiong | zh-cn | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/yzzy.tv.js) |
 | ZeroScans | zeroscans.com | v0.0.2 | OshekharO | en | manga | [Source Code](https://github.com/miru-project/repo/blob/main/repo/zeroscans.com.js) |
+=======
+# kazutorakunren
+>>>>>>> 90821697f6e57f1ec8da1da08b4129e5bf69340c
